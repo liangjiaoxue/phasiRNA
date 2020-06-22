@@ -1,2 +1,4 @@
 # phasiRNA
- phasiRNA detection
+这个程序提供了一个操作便捷的phasiRNA鉴定工具。
+作者：李婷，冯洋帆，祁永力
+单位：南京林业大学
